@@ -1,0 +1,9 @@
+[package]
+name = "rust-webservice-helloworld"
+version = "0.1.0"
+authors = ["Ben Wilson <benjamin.m.wilson@gmail.com>"]
+edition = "2018"
+
+[dependencies.nickel]
+
+version="*"
